@@ -4,6 +4,8 @@ I'm Avtandil Ushikishvili, a Lead .NET Engineer focused on backend systems, Azur
 
 I'm a cofounder of [dotnet.ge](https://dotnet.ge), a .NET community in Georgia, where I help bring developers together to share knowledge, exchange ideas, and learn from each other.
 
+I'm also a member of the [.NET Foundation](https://dotnetfoundation.org).
+
 ### Devtherapy
 
 I cohost [Devtherapy](https://www.youtube.com/@Devtherapy), a Georgian tech podcast where we talk with engineers, founders, and tech leaders about software development, careers, and the lessons learned along the way.
